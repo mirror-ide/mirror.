@@ -2,6 +2,7 @@
 
 > a bilateral IDE for designers and developers — design visually, edit in code, stay in sync.
 > one platform. no switching. always free.
+>
 > **draft** — this is an early draft. the README, roadmap, and feature list will evolve as mirror. takes shape.
 
 ![License: MIT](https://img.shields.io/badge/license-MIT-C5B4F0)
