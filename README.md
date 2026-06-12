@@ -101,7 +101,7 @@ mirror. is and always will be free. that's not a temporary decision. it's a valu
 
 ## support the dev
 
-mirror. has no business model and never will. if it helped you, you can [support the developer](https://ko-fi.com](https://arv3609.gumroad.com) — it keeps the commits coming and the lights on.
+mirror. has no business model and never will. if it helped you, you can [support the developer](https://arv3609.gumroad.com) — it keeps the commits coming and the lights on.
 
 ---
 
